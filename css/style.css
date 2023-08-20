@@ -108,7 +108,7 @@ footer .footer__inner, .info .info__inner, .intro .intro__inner, header .header_
 }
 
 header {
-  background-color: #0A8817;
+  background-color: rgba(10, 136, 23, 0.6705882353);
 }
 header .header__inner {
   position: relative;
@@ -166,7 +166,7 @@ header .header__inner .header__content .header__p1 .btns {
   margin-top: 40px;
 }
 header .header__inner .header__content .header__p1 .btns button {
-  background-color: #0A8817;
+  background-color: rgba(10, 136, 23, 0.6705882353);
   border: 1px solid #F8D24E;
 }
 header .header__inner .header__content .header__p1 .btns button span {
@@ -245,7 +245,7 @@ header .header-image-min {
   width: 320px;
   background-color: #F8D24E;
   border-radius: 24px;
-  background: #0A8817;
+  background: rgba(10, 136, 23, 0.6705882353);
   box-shadow: 0px 8px 30px 0px #D6936D;
 }
 .intro .intro__inner .intro__content .intro__item:nth-child(2) {
@@ -287,7 +287,7 @@ header .header-image-min {
 .info {
   margin-top: 50px;
   padding-top: 50px;
-  background-color: #0A8817;
+  background-color: rgba(10, 136, 23, 0.6705882353);
   margin-bottom: 200px;
 }
 .info .info__inner {
@@ -389,7 +389,7 @@ header .header-image-min {
   max-width: 968px;
   padding: 30px 100px;
   border-radius: 24px;
-  background: #0A8817;
+  background: rgba(10, 136, 23, 0.6705882353);
   color: #FCFCFC;
   text-align: center;
   font-family: Montserrat;
@@ -411,7 +411,7 @@ header .header-image-min {
   font-size: 14px;
 }
 .slider .swiper-pagination-bullet-active {
-  background-color: #0A8817;
+  background-color: rgba(10, 136, 23, 0.6705882353);
   opacity: 100%;
 }
 
