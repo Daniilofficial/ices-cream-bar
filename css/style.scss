@@ -21,7 +21,7 @@ img{
     max-width: 100%;
     display: block;
 }
-$bgreen: #84A178;
+$bgreen: #74a061;
 $white: #FCFCFC;
 $yellow: #F8D24E;
 $black: #131313;
@@ -941,10 +941,10 @@ footer{
     footer{
         .footer__inner{
             .row{
-                .footer-col{
-                    width: 100%;
-                    margin-bottom: 30px;
-                } 
+                    .footer-col{
+                     width: 100%;
+                     margin-bottom: 30px;
+    } 
             }
         }
     }     
